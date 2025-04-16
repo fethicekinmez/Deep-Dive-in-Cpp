@@ -1,4 +1,4 @@
-# Learn C++ Programming -Beginner to Advance- Deep Dive in C++
+# Deep Dive in C++
 
 ## Content
 
