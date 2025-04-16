@@ -17,7 +17,7 @@
 13. [Introduction to OOPs]()
 14. [Operator Overloading](https://github.com/fethicekinmez/Deep-Dive-in-Cpp/tree/main/13-Operator_Overhandling)
 15. [Inheritance]()
-16. [Base Class Pointer Derived Class Object]()
+16. [Base Class Pointer Derived Class Object](https://github.com/fethicekinmez/Deep-Dive-in-Cpp/tree/main/15-Base_Class_Pointer_Derived_Class_Object)
 17. [Polymorphism]()
 18. [Friend and Static Members/Inner Class](https://github.com/fethicekinmez/Deep-Dive-in-Cpp/tree/main/17-Friend_and_Static_Members%3AInner_Classes)
 19. [Exception Handling](https://github.com/fethicekinmez/Deep-Dive-in-Cpp/tree/main/18-Exception_Handling)
