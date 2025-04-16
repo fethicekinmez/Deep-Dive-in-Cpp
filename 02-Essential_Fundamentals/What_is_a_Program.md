@@ -10,4 +10,4 @@ machine only understand binary data
 - The intermediate language between Human and Computers is
 programming language which we learn in order to instruct a
 machine for any task
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/fethicekinmez/Deep-Dive-in-Cpp/blob/main/02-Essential_Fundamentals/Program.png))
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true])
